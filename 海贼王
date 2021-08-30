@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>海贼基地</title>
+    <meta name="description" content="webzuo作业"/>
+    <meta name="authon" content="pengjianguo"/>
+    <style>
+        div{text-align:center;color: rgb(175, 38, 38);}
+        p{text-indent: 2em;color: rgb(95, 14, 95);}
+    </style>
+</head>
+<body>
+     <header>
+         <hgroup>
+             <h1 align="center">海</h1>
+             <h1 align="center">贼</h1>
+             <h1 align="center">王</h1>
+         </hgroup>
+    
+     </header> 
+     <hr color="black" size="2" width="100%">
+     <div id="" class="">
+         <img src="haizeiwang.jpg" width="787" height="443" align="center">     
+     </div>
+     <p align="left" size="6">海贼王哥尔·D·罗杰在临死前曾留下了关于其毕生的财富“One Piece”的消息，由此引得群雄并起，众海盗们为了这笔传说中的巨额财富展开争夺，
+     各种势力、政权不断交替，整个世界进入了动荡混乱的“大海贼时代”。生长在东海某小村庄的路飞受到海贼香克斯的精神指引，决定成为一名出色的海盗。为了达成这个目标，找
+     到万众瞩目的One Piece，路飞踏上艰苦的旅程。一路上他遇到了无数磨难，也结识了索隆、娜美、山治、乌索普、罗宾等一众性格各异的好友。他们携手一同展开充满传奇色彩
+     的大冒险。</p>
+</body>
+</html>
